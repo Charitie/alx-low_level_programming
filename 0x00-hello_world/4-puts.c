@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
-* main: Print string using function puts
-* Description: Prints "Programming is like building a multilingual puzzle"
+* main - Prints string
+* Description: Prints "\"Programming is like building a multilingual puzzle"
 * Return: 0
 */
 
