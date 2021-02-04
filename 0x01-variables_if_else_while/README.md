@@ -20,3 +20,4 @@
 
 **9-print_comb.c -** A  program that prints all possible combinations of single-digit numbers.
 
+**10-print_comb2.c -** A program that prints the numbers from 00 to 99.
