@@ -14,7 +14,7 @@
 
 **6-abs.c -** A function that computes the absolute value of an integer.
 
-
+**7-print_last_digit.c -** A function that prints the last digit of a number.
 
 
 
