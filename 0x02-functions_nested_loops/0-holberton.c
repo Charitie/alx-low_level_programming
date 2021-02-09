@@ -8,12 +8,12 @@
 int  main(void)
 {
 char c;
-char s[] = "Holberton \n";
+char s[] = "Holberton\n";
 int i;
 
 for (i = 0; i < 9; i++)
 c = s[i];
-_putchar(c);
+ _putchar(c);
 
 return (0);
 }
