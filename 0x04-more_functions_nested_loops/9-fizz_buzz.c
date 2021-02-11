@@ -24,9 +24,9 @@ else if ((i % 5) == 0)
 {
 printf("Buzz");
 }
-else 
+else
 {
-printf("%i", i)
+printf("%i", i);
 }
 
 if (i == 100)
@@ -36,5 +36,5 @@ printf(" ");
 
 printf("\n");
 
-return (0)
+return (0);
 }
