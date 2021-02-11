@@ -20,7 +20,4 @@
 
 **9-fizz_buzz.c -** A Fizz-Buzz test.
 
-
-
-
-
+**10-print_triangle.c -** A function that prints a triangle.
