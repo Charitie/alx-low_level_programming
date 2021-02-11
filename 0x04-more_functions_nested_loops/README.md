@@ -16,6 +16,9 @@
 
 **7-print_diagonal.c -** A function that draws a diagonal line on the terminal.
 
+**8-print_square.c -** A  function that prints a square, followed by a new line.
+
+
 
 
 
