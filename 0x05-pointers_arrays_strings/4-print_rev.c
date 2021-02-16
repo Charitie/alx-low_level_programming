@@ -8,6 +8,7 @@
 
 void print_rev(char *s)
 {
+
 int left = 0;
 int length = 0;
 int i;
@@ -27,5 +28,6 @@ _putchar(s[length]);
 }
 
 _putchar('\n');
+
 }
 
