@@ -18,7 +18,7 @@ return (1 + _strlen_recursion(++s));
 }
 
 /**
-*_is_paldrm - helper function
+*is_paldrm - helper function
 *@s: character
 *@i: integer
 *@j: integer
