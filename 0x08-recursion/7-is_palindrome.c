@@ -25,7 +25,7 @@ return (1 + _strlen_recursion(++s));
 *Return: 1 or 0
 */
 
-int _is_paldrm(char s[], int i, int j)
+int is_paldrm(char s[], int i, int j)
 {
 if (i == j)
 {
@@ -39,7 +39,7 @@ return (0);
 
 if (i < j + 1)
 {
-return (_is_paldrm(s, i + 1, j - 1));
+return (is_paldrm(s, i + 1, j - 1));
 }
 
 return (1);
@@ -56,7 +56,7 @@ int is_palindrome(char *s)
 
 int length = _strlen_recursion(s) - 1;
 
-return (_is_paldrm(s, 0, length));
+return (is_paldrm(s, 0, length));
 
 }
 
